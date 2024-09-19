@@ -12,7 +12,7 @@
 	<artifactId>purchase-order-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>purchase-order-service</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot Async Implementation</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
