@@ -12,5 +12,4 @@ public class PurchaseOrderServiceApplication
 	{
 		SpringApplication.run(PurchaseOrderServiceApplication.class, args);
 	}
-
 }
